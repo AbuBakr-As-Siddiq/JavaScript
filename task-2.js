@@ -2,12 +2,12 @@
 
 //     var finish = 0 
 //     for(arr of array){
-//       if(arr === true){
+//       if(arr === false){
 //         finish++
 //       }
 //     }
 
-//     console.log(`truelar soni ${finish} ta` );
+//     console.log(`false soni ${finish} ta` );
 
 //     return finish
 //     };
